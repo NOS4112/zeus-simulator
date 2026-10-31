@@ -1,0 +1,662 @@
+[
+  {
+    "id": "00_0",
+    "name": "영웅의 한손검",
+    "slot": "한손검",
+    "tier": "T2",
+    "rarity": "영웅",
+    "category": "무기",
+    "icon": "assets/item_00_0.png",
+    "stats": "능력치: 원본 캡처 참조"
+  },
+  {
+    "id": "00_1",
+    "name": "수호자의 한손검",
+    "slot": "한손검",
+    "tier": "T1",
+    "rarity": "영웅",
+    "category": "무기",
+    "icon": "assets/item_00_1.png",
+    "stats": "능력치: 원본 캡처 참조"
+  },
+  {
+    "id": "00_2",
+    "name": "학살자의 한손검",
+    "slot": "한손검",
+    "tier": "T1",
+    "rarity": "영웅",
+    "category": "무기",
+    "icon": "assets/item_00_2.png",
+    "stats": "능력치: 원본 캡처 참조"
+  },
+  {
+    "id": "01_0",
+    "name": "영웅의 대검",
+    "slot": "대검",
+    "tier": "T2",
+    "rarity": "영웅",
+    "category": "무기",
+    "icon": "assets/item_01_0.png",
+    "stats": "능력치: 원본 캡처 참조"
+  },
+  {
+    "id": "01_1",
+    "name": "수호자의 대검",
+    "slot": "대검",
+    "tier": "T1",
+    "rarity": "영웅",
+    "category": "무기",
+    "icon": "assets/item_01_1.png",
+    "stats": "능력치: 원본 캡처 참조"
+  },
+  {
+    "id": "01_2",
+    "name": "학살자의 대검",
+    "slot": "대검",
+    "tier": "T1",
+    "rarity": "영웅",
+    "category": "무기",
+    "icon": "assets/item_01_2.png",
+    "stats": "능력치: 원본 캡처 참조"
+  },
+  {
+    "id": "02_0",
+    "name": "영웅의 단검",
+    "slot": "단검",
+    "tier": "T2",
+    "rarity": "영웅",
+    "category": "무기",
+    "icon": "assets/item_02_0.png",
+    "stats": "능력치: 원본 캡처 참조"
+  },
+  {
+    "id": "02_1",
+    "name": "수호자의 단검",
+    "slot": "단검",
+    "tier": "T1",
+    "rarity": "영웅",
+    "category": "무기",
+    "icon": "assets/item_02_1.png",
+    "stats": "능력치: 원본 캡처 참조"
+  },
+  {
+    "id": "02_2",
+    "name": "학살자의 단검",
+    "slot": "단검",
+    "tier": "T1",
+    "rarity": "영웅",
+    "category": "무기",
+    "icon": "assets/item_02_2.png",
+    "stats": "능력치: 원본 캡처 참조"
+  },
+  {
+    "id": "03_0",
+    "name": "영웅의 활",
+    "slot": "활",
+    "tier": "T2",
+    "rarity": "영웅",
+    "category": "무기",
+    "icon": "assets/item_03_0.png",
+    "stats": "능력치: 원본 캡처 참조"
+  },
+  {
+    "id": "03_1",
+    "name": "수호자의 활",
+    "slot": "활",
+    "tier": "T1",
+    "rarity": "영웅",
+    "category": "무기",
+    "icon": "assets/item_03_1.png",
+    "stats": "능력치: 원본 캡처 참조"
+  },
+  {
+    "id": "03_2",
+    "name": "학살자의 활",
+    "slot": "활",
+    "tier": "T1",
+    "rarity": "영웅",
+    "category": "무기",
+    "icon": "assets/item_03_2.png",
+    "stats": "능력치: 원본 캡처 참조"
+  },
+  {
+    "id": "04_0",
+    "name": "영웅의 지팡이",
+    "slot": "지팡이",
+    "tier": "T2",
+    "rarity": "영웅",
+    "category": "무기",
+    "icon": "assets/item_04_0.png",
+    "stats": "능력치: 원본 캡처 참조"
+  },
+  {
+    "id": "04_1",
+    "name": "수호자의 지팡이",
+    "slot": "지팡이",
+    "tier": "T1",
+    "rarity": "영웅",
+    "category": "무기",
+    "icon": "assets/item_04_1.png",
+    "stats": "능력치: 원본 캡처 참조"
+  },
+  {
+    "id": "04_2",
+    "name": "학살자의 지팡이",
+    "slot": "지팡이",
+    "tier": "T1",
+    "rarity": "영웅",
+    "category": "무기",
+    "icon": "assets/item_04_2.png",
+    "stats": "능력치: 원본 캡처 참조"
+  },
+  {
+    "id": "05_0",
+    "name": "영웅의 보주",
+    "slot": "보주",
+    "tier": "T2",
+    "rarity": "영웅",
+    "category": "무기",
+    "icon": "assets/item_05_0.png",
+    "stats": "능력치: 원본 캡처 참조"
+  },
+  {
+    "id": "05_1",
+    "name": "수호자의 보주",
+    "slot": "보주",
+    "tier": "T1",
+    "rarity": "영웅",
+    "category": "무기",
+    "icon": "assets/item_05_1.png",
+    "stats": "능력치: 원본 캡처 참조"
+  },
+  {
+    "id": "05_2",
+    "name": "학살자의 보주",
+    "slot": "보주",
+    "tier": "T1",
+    "rarity": "영웅",
+    "category": "무기",
+    "icon": "assets/item_05_2.png",
+    "stats": "능력치: 원본 캡처 참조"
+  },
+  {
+    "id": "06_0",
+    "name": "영웅의 철퇴",
+    "slot": "철퇴",
+    "tier": "T2",
+    "rarity": "영웅",
+    "category": "무기",
+    "icon": "assets/item_06_0.png",
+    "stats": "능력치: 원본 캡처 참조"
+  },
+  {
+    "id": "06_1",
+    "name": "수호자의 철퇴",
+    "slot": "철퇴",
+    "tier": "T1",
+    "rarity": "영웅",
+    "category": "무기",
+    "icon": "assets/item_06_1.png",
+    "stats": "능력치: 원본 캡처 참조"
+  },
+  {
+    "id": "06_2",
+    "name": "학살자의 철퇴",
+    "slot": "철퇴",
+    "tier": "T1",
+    "rarity": "영웅",
+    "category": "무기",
+    "icon": "assets/item_06_2.png",
+    "stats": "능력치: 원본 캡처 참조"
+  },
+  {
+    "id": "07_0",
+    "name": "영웅의 망치",
+    "slot": "망치",
+    "tier": "T2",
+    "rarity": "영웅",
+    "category": "무기",
+    "icon": "assets/item_07_0.png",
+    "stats": "능력치: 원본 캡처 참조"
+  },
+  {
+    "id": "07_1",
+    "name": "수호자의 망치",
+    "slot": "망치",
+    "tier": "T1",
+    "rarity": "영웅",
+    "category": "무기",
+    "icon": "assets/item_07_1.png",
+    "stats": "능력치: 원본 캡처 참조"
+  },
+  {
+    "id": "07_2",
+    "name": "학살자의 망치",
+    "slot": "망치",
+    "tier": "T1",
+    "rarity": "영웅",
+    "category": "무기",
+    "icon": "assets/item_07_2.png",
+    "stats": "능력치: 원본 캡처 참조"
+  },
+  {
+    "id": "08_0",
+    "name": "영웅의 대형방패",
+    "slot": "대형방패",
+    "tier": "T2",
+    "rarity": "영웅",
+    "category": "보조장비",
+    "icon": "assets/item_08_0.png",
+    "stats": "능력치: 원본 캡처 참조"
+  },
+  {
+    "id": "08_1",
+    "name": "수호자의 대형방패",
+    "slot": "대형방패",
+    "tier": "T1",
+    "rarity": "영웅",
+    "category": "보조장비",
+    "icon": "assets/item_08_1.png",
+    "stats": "능력치: 원본 캡처 참조"
+  },
+  {
+    "id": "08_2",
+    "name": "학살자의 대형방패",
+    "slot": "대형방패",
+    "tier": "T1",
+    "rarity": "영웅",
+    "category": "보조장비",
+    "icon": "assets/item_08_2.png",
+    "stats": "능력치: 원본 캡처 참조"
+  },
+  {
+    "id": "09_0",
+    "name": "영웅의 완갑",
+    "slot": "완갑",
+    "tier": "T2",
+    "rarity": "영웅",
+    "category": "보조장비",
+    "icon": "assets/item_09_0.png",
+    "stats": "능력치: 원본 캡처 참조"
+  },
+  {
+    "id": "09_1",
+    "name": "수호자의 완갑",
+    "slot": "완갑",
+    "tier": "T1",
+    "rarity": "영웅",
+    "category": "보조장비",
+    "icon": "assets/item_09_1.png",
+    "stats": "능력치: 원본 캡처 참조"
+  },
+  {
+    "id": "09_2",
+    "name": "학살자의 완갑",
+    "slot": "완갑",
+    "tier": "T1",
+    "rarity": "영웅",
+    "category": "보조장비",
+    "icon": "assets/item_09_2.png",
+    "stats": "능력치: 원본 캡처 참조"
+  },
+  {
+    "id": "10_0",
+    "name": "영웅의 사슬검",
+    "slot": "사슬검",
+    "tier": "T2",
+    "rarity": "영웅",
+    "category": "보조장비",
+    "icon": "assets/item_10_0.png",
+    "stats": "능력치: 원본 캡처 참조"
+  },
+  {
+    "id": "10_1",
+    "name": "수호자의 사슬검",
+    "slot": "사슬검",
+    "tier": "T1",
+    "rarity": "영웅",
+    "category": "보조장비",
+    "icon": "assets/item_10_1.png",
+    "stats": "능력치: 원본 캡처 참조"
+  },
+  {
+    "id": "10_2",
+    "name": "학살자의 사슬검",
+    "slot": "사슬검",
+    "tier": "T1",
+    "rarity": "영웅",
+    "category": "보조장비",
+    "icon": "assets/item_10_2.png",
+    "stats": "능력치: 원본 캡처 참조"
+  },
+  {
+    "id": "11_0",
+    "name": "영웅의 조준경",
+    "slot": "조준경",
+    "tier": "T2",
+    "rarity": "영웅",
+    "category": "보조장비",
+    "icon": "assets/item_11_0.png",
+    "stats": "능력치: 원본 캡처 참조"
+  },
+  {
+    "id": "11_1",
+    "name": "수호자의 조준경",
+    "slot": "조준경",
+    "tier": "T1",
+    "rarity": "영웅",
+    "category": "보조장비",
+    "icon": "assets/item_11_1.png",
+    "stats": "능력치: 원본 캡처 참조"
+  },
+  {
+    "id": "11_2",
+    "name": "학살자의 조준경",
+    "slot": "조준경",
+    "tier": "T1",
+    "rarity": "영웅",
+    "category": "보조장비",
+    "icon": "assets/item_11_2.png",
+    "stats": "능력치: 원본 캡처 참조"
+  },
+  {
+    "id": "12_0",
+    "name": "영웅의 마법서",
+    "slot": "마법서",
+    "tier": "T2",
+    "rarity": "영웅",
+    "category": "보조장비",
+    "icon": "assets/item_12_0.png",
+    "stats": "능력치: 원본 캡처 참조"
+  },
+  {
+    "id": "12_1",
+    "name": "수호자의 마법서",
+    "slot": "마법서",
+    "tier": "T1",
+    "rarity": "영웅",
+    "category": "보조장비",
+    "icon": "assets/item_12_1.png",
+    "stats": "능력치: 원본 캡처 참조"
+  },
+  {
+    "id": "12_2",
+    "name": "학살자의 마법서",
+    "slot": "마법서",
+    "tier": "T1",
+    "rarity": "영웅",
+    "category": "보조장비",
+    "icon": "assets/item_12_2.png",
+    "stats": "능력치: 원본 캡처 참조"
+  },
+  {
+    "id": "13_0",
+    "name": "영웅의 팔찌",
+    "slot": "팔찌",
+    "tier": "T2",
+    "rarity": "영웅",
+    "category": "보조장비",
+    "icon": "assets/item_13_0.png",
+    "stats": "능력치: 원본 캡처 참조"
+  },
+  {
+    "id": "13_1",
+    "name": "수호자의 팔찌",
+    "slot": "팔찌",
+    "tier": "T1",
+    "rarity": "영웅",
+    "category": "보조장비",
+    "icon": "assets/item_13_1.png",
+    "stats": "능력치: 원본 캡처 참조"
+  },
+  {
+    "id": "13_2",
+    "name": "학살자의 팔찌",
+    "slot": "팔찌",
+    "tier": "T1",
+    "rarity": "영웅",
+    "category": "보조장비",
+    "icon": "assets/item_13_2.png",
+    "stats": "능력치: 원본 캡처 참조"
+  },
+  {
+    "id": "14_0",
+    "name": "영웅의 소형방패",
+    "slot": "소형방패",
+    "tier": "T2",
+    "rarity": "영웅",
+    "category": "보조장비",
+    "icon": "assets/item_14_0.png",
+    "stats": "능력치: 원본 캡처 참조"
+  },
+  {
+    "id": "14_1",
+    "name": "수호자의 소형방패",
+    "slot": "소형방패",
+    "tier": "T1",
+    "rarity": "영웅",
+    "category": "보조장비",
+    "icon": "assets/item_14_1.png",
+    "stats": "능력치: 원본 캡처 참조"
+  },
+  {
+    "id": "14_2",
+    "name": "학살자의 소형방패",
+    "slot": "소형방패",
+    "tier": "T1",
+    "rarity": "영웅",
+    "category": "보조장비",
+    "icon": "assets/item_14_2.png",
+    "stats": "능력치: 원본 캡처 참조"
+  },
+  {
+    "id": "15_0",
+    "name": "영웅의 천칭",
+    "slot": "천칭",
+    "tier": "T2",
+    "rarity": "영웅",
+    "category": "보조장비",
+    "icon": "assets/item_15_0.png",
+    "stats": "능력치: 원본 캡처 참조"
+  },
+  {
+    "id": "15_1",
+    "name": "수호자의 천칭",
+    "slot": "천칭",
+    "tier": "T1",
+    "rarity": "영웅",
+    "category": "보조장비",
+    "icon": "assets/item_15_1.png",
+    "stats": "능력치: 원본 캡처 참조"
+  },
+  {
+    "id": "15_2",
+    "name": "학살자의 천칭",
+    "slot": "천칭",
+    "tier": "T1",
+    "rarity": "영웅",
+    "category": "보조장비",
+    "icon": "assets/item_15_2.png",
+    "stats": "능력치: 원본 캡처 참조"
+  },
+  {
+    "id": "16_0",
+    "name": "영웅의 투구",
+    "slot": "투구",
+    "tier": "T2",
+    "rarity": "영웅",
+    "category": "방어구",
+    "icon": "assets/item_16_0.png",
+    "stats": "능력치: 원본 캡처 참조"
+  },
+  {
+    "id": "16_1",
+    "name": "수호자의 투구",
+    "slot": "투구",
+    "tier": "T1",
+    "rarity": "영웅",
+    "category": "방어구",
+    "icon": "assets/item_16_1.png",
+    "stats": "능력치: 원본 캡처 참조"
+  },
+  {
+    "id": "16_2",
+    "name": "학살자의 투구",
+    "slot": "투구",
+    "tier": "T1",
+    "rarity": "영웅",
+    "category": "방어구",
+    "icon": "assets/item_16_2.png",
+    "stats": "능력치: 원본 캡처 참조"
+  },
+  {
+    "id": "17_0",
+    "name": "영웅의 상의",
+    "slot": "상의",
+    "tier": "T2",
+    "rarity": "영웅",
+    "category": "방어구",
+    "icon": "assets/item_17_0.png",
+    "stats": "능력치: 원본 캡처 참조"
+  },
+  {
+    "id": "17_1",
+    "name": "수호자의 상의",
+    "slot": "상의",
+    "tier": "T1",
+    "rarity": "영웅",
+    "category": "방어구",
+    "icon": "assets/item_17_1.png",
+    "stats": "능력치: 원본 캡처 참조"
+  },
+  {
+    "id": "17_2",
+    "name": "학살자의 상의",
+    "slot": "상의",
+    "tier": "T1",
+    "rarity": "영웅",
+    "category": "방어구",
+    "icon": "assets/item_17_2.png",
+    "stats": "능력치: 원본 캡처 참조"
+  },
+  {
+    "id": "18_0",
+    "name": "영웅의 장갑",
+    "slot": "장갑",
+    "tier": "T2",
+    "rarity": "영웅",
+    "category": "방어구",
+    "icon": "assets/item_18_0.png",
+    "stats": "능력치: 원본 캡처 참조"
+  },
+  {
+    "id": "18_1",
+    "name": "수호자의 장갑",
+    "slot": "장갑",
+    "tier": "T1",
+    "rarity": "영웅",
+    "category": "방어구",
+    "icon": "assets/item_18_1.png",
+    "stats": "능력치: 원본 캡처 참조"
+  },
+  {
+    "id": "18_2",
+    "name": "학살자의 장갑",
+    "slot": "장갑",
+    "tier": "T1",
+    "rarity": "영웅",
+    "category": "방어구",
+    "icon": "assets/item_18_2.png",
+    "stats": "능력치: 원본 캡처 참조"
+  },
+  {
+    "id": "19_0",
+    "name": "영웅의 하의",
+    "slot": "하의",
+    "tier": "T2",
+    "rarity": "영웅",
+    "category": "방어구",
+    "icon": "assets/item_19_0.png",
+    "stats": "능력치: 원본 캡처 참조"
+  },
+  {
+    "id": "19_1",
+    "name": "수호자의 하의",
+    "slot": "하의",
+    "tier": "T1",
+    "rarity": "영웅",
+    "category": "방어구",
+    "icon": "assets/item_19_1.png",
+    "stats": "능력치: 원본 캡처 참조"
+  },
+  {
+    "id": "19_2",
+    "name": "학살자의 하의",
+    "slot": "하의",
+    "tier": "T1",
+    "rarity": "영웅",
+    "category": "방어구",
+    "icon": "assets/item_19_2.png",
+    "stats": "능력치: 원본 캡처 참조"
+  },
+  {
+    "id": "20_0",
+    "name": "영웅의 신발",
+    "slot": "신발",
+    "tier": "T2",
+    "rarity": "영웅",
+    "category": "방어구",
+    "icon": "assets/item_20_0.png",
+    "stats": "능력치: 원본 캡처 참조"
+  },
+  {
+    "id": "20_1",
+    "name": "수호자의 신발",
+    "slot": "신발",
+    "tier": "T1",
+    "rarity": "영웅",
+    "category": "방어구",
+    "icon": "assets/item_20_1.png",
+    "stats": "능력치: 원본 캡처 참조"
+  },
+  {
+    "id": "20_2",
+    "name": "학살자의 신발",
+    "slot": "신발",
+    "tier": "T1",
+    "rarity": "영웅",
+    "category": "방어구",
+    "icon": "assets/item_20_2.png",
+    "stats": "능력치: 원본 캡처 참조"
+  },
+  {
+    "id": "21_0",
+    "name": "영웅의 망토",
+    "slot": "망토",
+    "tier": "T2",
+    "rarity": "영웅",
+    "category": "방어구",
+    "icon": "assets/item_21_0.png",
+    "stats": "능력치: 원본 캡처 참조"
+  },
+  {
+    "id": "21_1",
+    "name": "수호자의 망토",
+    "slot": "망토",
+    "tier": "T1",
+    "rarity": "영웅",
+    "category": "방어구",
+    "icon": "assets/item_21_1.png",
+    "stats": "능력치: 원본 캡처 참조"
+  },
+  {
+    "id": "21_2",
+    "name": "학살자의 망토",
+    "slot": "망토",
+    "tier": "T1",
+    "rarity": "영웅",
+    "category": "방어구",
+    "icon": "assets/item_21_2.png",
+    "stats": "능력치: 원본 캡처 참조"
+  }
+]
